@@ -1,0 +1,77 @@
+<html>
+    <head>
+        <title>web page</title>
+            <style>
+                table, th, td {
+                    border:1px solid black;
+                    border-collapse: collapse;
+                }
+                h1 {text-align: center;}
+            </style>
+            <body>
+                <body bgcolor="#17ECEC">
+                <h1>BIO-DATA</h1>
+                <hr>
+                <h3>Name</h3>
+                <p>Bharath Raj k</p>
+                <p style="text-align:left"><img src="C:\Users\Bharath Kumar\Downloads\22ITR013.jpeg"height="100px"width="100px"></p>
+                <h3>Address</h3>
+                <p>East Street Pasar,Pasar(PO),Kallakurichi(DT)<br>Pin Code:606 205</address>
+                </p>
+            </address>
+            <h3>Eductional Qualifications</h3>
+            <table style="width:10%">
+                <tr>
+                    <th>Qualifications</th>
+                    <th>School/College</th>
+                    <th>Name of the Institution</th>
+                    <th>Year</th>
+                    <th>Cgpa</th><br>
+                    </tr>
+                    <tr>
+                        <td>B.TECH(IT)</td>
+                        <td>College</td>
+                        <td>KONGU ENGINEERING COLLEGE</td>
+                        <td>2026</td>
+                        <td>8</td>
+                        </tr>
+                        <tr>
+                            <td>HSC</td>
+                            <td>School</td>
+                            <td>MOUNT PARK HIGHER SECONDARY SCHOOL</td>
+                            <td>2022</td>
+                            <td>8</td>
+                            </tr>
+                            <tr>
+                                <td>SSLC</td>
+                                <td>School</td>
+                                <td>MOUNT PARK HIGHER SECONDARY SCHOOL</td>
+                                <td>2020</td>
+                                <td>7</td>
+                            </tr>
+                        </table>
+                            <h3>Objective</h3>
+                            <p>I am a passionate design and implement scalable and efficient full-stack solutions, integrating front-end<br> technologies, back-end frameworks, and databases to deliver high-performance web applications.</p>
+                            <h3>Programming Languages</h3>
+                            <p><li>Python</li><li>C,C++</li><li>Sql</li></p>
+                            <h3>Area of Interest</h3>
+                            <p><li>Web Designing</li><li>Front end developement</li><li>Cyber Security</li></p>
+                            <h3>Paper Presentation</h3>
+                            <p><li>I completed my paper presentation on Kongu engineering college in MOBILE APPLICATION DEVELOPEMENT CLUB,SIGN-IN.</li></p>
+                            <h3>Industry Collaboration</h3>
+                            <p><li>I Completed my Industrail Visit in ATEES,Thrissur</li><li>I Completed my Inplant training in RATIX,Erode</li></p>
+                            <h3>Social Medias</h3>
+                            <p><li>Linkedin : <a href="https://leetcode.com/bharathrajk123/">Click Here</a></li></p>
+                            <p><li>Hacker Rank : <a href="https://www.hackerrank.com/profile/bharathrajk_22it">Click Here</a></li></p>
+                            <h3>Personal Details</h3>
+                            <p>Father's Name:Kumar G</p>
+                            <p>Mother's Name:Sudha K</p>
+                            <p>Gender:Male</p>
+                            <p>DOB:01-12-2004</p>
+                            <p>My native:Pasar</p>
+                            <p>Email Id:bbharathraj400@gmail.com</p>
+                            <p>Mobile No:6369226009</p>
+                        
+        </body>
+    </head>
+</html>
